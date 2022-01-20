@@ -1,21 +1,3 @@
-:spiral_calendar: Atualizado em 25 de junho de 2021 :heart:
-
-<img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/under_construction.gif" />
-
-:blush: Este projeto está em estudo. Carga inicial realizada para manter cópia de segurança :blush:
-
-<img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
-
-# Projeto Digital Innovation One - Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc 
-Este projeto foi proposto pela Digital Innovation One
-- Link do código original: https://github.com/marcelomarques05/dio-desafio-dataproc
-- Professora: Marcelo Marques
-- Aula: https://web.digitalinnovation.one/project/criando-um-ecossistema-hadoop-totalmente-gerenciado-com-google-cloud-dataproc/learning/f2a19382-6bbf-4620-a94d-5bb1a46c00c5?back=/track/banco-carrefour-data-engineer
-
-## Descrição
-Sua missão será criar um ecossistema de Big Data usando o Google Cloud Platform (GCP). Para isso, o expert te ensinará a configurar o Google Cloud Dataproc, um Hadoop totalmente gerenciado, usando seus créditos gratuitos da GCP.
-
-# Descrição do projeto original
 # Digital Innovation One
 
 Código criado para utilização junto a plataforma da Digital Innovation One
